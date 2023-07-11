@@ -1,0 +1,47 @@
+.bg1{
+    background: #1f242d;
+}
+.edu
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.i{
+    float:left;
+}
+.bg{
+    
+    background: #1f242d;
+    color: #fff;
+
+}
+.txt{
+    color: #fff
+}
+.bg3{
+    background: black;
+    color: #fff
+}
+.b{
+    height: 183px;
+}
+.img{
+    width: 183px;
+}
+.logo{
+    width: 50px;
+    margin-left: 10px;
+}
+.logo1{
+    width: 50px;
+    margin-left: 30px;
+}
+.hr{
+    border: 0px;
+}
+.ic{
+    float: left;
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
